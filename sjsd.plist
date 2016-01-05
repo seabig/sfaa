@@ -12,19 +12,19 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://180.169.20.171/ios/sfaa/1.0.1/sfaa.ipa</string>
+            <string>http://180.169.20.171/ios/sjsd/sjsd.ipa</string>
           </dict>
         </array>
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.seabig.sfaa</string>
+          <string>com.ionicframework.sjsd</string>
           <key>bundle-version</key>
-          <string>5.2.0</string>
+          <string>1.0.1</string>
           <key>kind</key>
           <string>software</string>
           <key>title</key>
-          <string>电影学院</string>
+          <string>谁叫随到</string>
         </dict>
       </dict>
     </array>
